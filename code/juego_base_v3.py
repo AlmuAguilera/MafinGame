@@ -10,6 +10,7 @@ Objetivo: llegar al final del nivel y coger el muffin.
 Si te caes por un hueco, tocas unos pinchos o te pilla Bianca... pierdes.
 Enter (o N) -> pasar al siguiente nivel cuando ganes.
 Ejecutar:  python juego_base_v3.py
+Pasar a Exe: python -m PyInstaller --onefile --windowed --name JuegoBase juego_base_v1.py
 """
 
 import math
